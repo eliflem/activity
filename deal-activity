@@ -54,11 +54,7 @@ for url in urls:
     deals.append(response.json())
 
 
-# In[19]:
-
-
-deals
-
+# #deals
 
 # In[5]:
 
